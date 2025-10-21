@@ -96,7 +96,7 @@
   <a href="https://github.com/Ferozhasnain1504" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ferozhasnain" target="_blank">
+  <a href="https://www.linkedin.com/in/feroz-hasnain-856440313" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="mailto:ferozhasnain1504@gmail.com" target="_blank">
