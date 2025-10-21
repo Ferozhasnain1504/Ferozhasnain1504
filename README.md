@@ -1,11 +1,13 @@
-<!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Feroz Hasnain</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN & PostgreSQL | Building Scalable Web Apps</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif]" width="200"/>
-  <img src="[https://img.freepik.com/premium-vector/man-sitting-table-with-laptop-picture-man-sitting-table_1229301-5291.jpg]" width="400"/>
-  <img src="[https://png.pngtree.com/png-vector/20231015/ourmid/pngtree-professional-web-developer-3d-illustration-png-image_10165440.png]" width="400"/>
+  <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/> -->
+  <!-- <img src="https://img.freepik.com/premium-vector/man-sitting-table-with-laptop-picture-man-sitting-table_1229301-5291.jpg" width="200"/> -->
+  <img src="https://png.pngtree.com/png-vector/20231015/ourmid/pngtree-professional-web-developer-3d-illustration-png-image_10165440.png" width="200"/>
+  <!-- <img src="https://images.template.net/wp-content/uploads/2016/11/16122255/Illustration-Animated-Gif.gif" width="200"/> -->
+  <img src="https://i.gifer.com/4M52.gif" width="200"/>
+  <!-- <img src="https://i.gifer.com/BOI6.gif" width="200"/> -->
 </p>
 
 ---
@@ -99,7 +101,7 @@
   <a href="https://www.linkedin.com/in/feroz-hasnain-856440313" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="mailto:ferozhasnain1504@gmail.com" target="_blank">
+  <a href="mailto:ferozhasnain229@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
 </p>
