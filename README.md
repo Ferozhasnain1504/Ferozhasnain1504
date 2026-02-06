@@ -95,14 +95,17 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/Ferozhasnain1504" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/feroz-hasnain-856440313" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="mailto:ferozhasnain229@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  <a href="https://leetcode.com/Feroz_hasnain_0015/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/code_Sorcerer_Feroz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codeforces" width="40" />
   </a>
 </p>
 
