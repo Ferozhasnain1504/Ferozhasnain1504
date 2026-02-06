@@ -101,12 +101,16 @@
   <a href="mailto:ferozhasnain229@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
-  <a href="https://leetcode.com/Feroz_hasnain_0015/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
-  </a>
   <a href="https://codeforces.com/profile/code_Sorcerer_Feroz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codeforces" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" />
   </a>
+<a href="https://www.leetcode.com/Feroz_hasnain_0015" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+</a>
+<a href="https://www.leetcode.com/Feroz_hasnain_0015" target="_blank">
+  <img src="https://cdn.brandfetch.io/idQVGbrvGL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764787059583" width="40" />
+</a>
+  
 </p>
 
 ---
