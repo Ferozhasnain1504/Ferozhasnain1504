@@ -107,7 +107,7 @@
 <a href="https://www.leetcode.com/Feroz_hasnain_0015" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
 </a>
-<a href="https://www.leetcode.com/Feroz_hasnain_0015" target="_blank">
+<a href="https://www.leetcode.com/Feroz_hasnain_0015](https://www.naukri.com/code360/profile/848c0c00-fd06-467e-9caf-d8711de789ee" target="_blank">
   <img src="https://cdn.brandfetch.io/idQVGbrvGL/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764787059583" width="40" />
 </a>
   
